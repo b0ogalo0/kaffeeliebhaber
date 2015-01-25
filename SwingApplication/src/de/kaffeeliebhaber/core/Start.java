@@ -4,5 +4,7 @@ public class Start {
 	
 	public static void main(String[] args) {
 		System.out.println("Dies ist ein einfacher GIT TEST.");
+		
+		System.out.println("Eine weitere Ausgabe. Demo.");
 	}
 }
