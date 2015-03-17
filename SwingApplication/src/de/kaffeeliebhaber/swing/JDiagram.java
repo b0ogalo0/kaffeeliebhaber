@@ -45,7 +45,8 @@ public class JDiagram extends JComponent{
 		
 		Font font = new Font(fontName, Font.PLAIN, 30);
 		g.setFont(font);
-		g.drawString("Übersicht", 10, 40);
+		//Ãœbersicht
+		g.drawString("ï¿½bersicht", 10, 40);
 
 
 	}
